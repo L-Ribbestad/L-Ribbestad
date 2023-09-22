@@ -5,9 +5,9 @@ Feel free to check out all my projects. I'm currently working on an E-Wallet usi
 
 ### Javascript used as a backend language
 
-I created a bank with routes and my own API using EJS and Mongodb. The application can only be hosted on my local device but you can see the code below.
+I created a bank and my own API using EJS and Mongodb. The application can only be hosted on my local device but you can see the code below.
 
-> [View code]()
+> [View code](https://github.com/L-Ribbestad/bank-app)
 
 ### The Smoothie Club
 
