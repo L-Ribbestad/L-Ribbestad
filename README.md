@@ -20,7 +20,7 @@ Project to compare fetched Star Wars characters.
 
 >[View Website]()
 
-> [View code]()
+> [View code](https://github.com/L-Ribbestad/star-wars-trivia)
 
 ### Combat Sport - webshop
 Project to learn styling. 
