@@ -18,7 +18,7 @@ I made a smoothie club website using node EJS and Mongodb.
 ### Star Wars Trivia 
 Project to compare fetched Star Wars characters.
 
->[View Website]()
+>[View Website](https://l-ribbestad.github.io/star-wars-trivia/)
 
 > [View code](https://github.com/L-Ribbestad/star-wars-trivia)
 
