@@ -11,7 +11,7 @@ I created a bank and my own API using EJS and Mongodb. The application can only 
 
 ### The Smoothie Club
 
-I made a smoothie club website using node EJS.
+I made a smoothie club website using node EJS and Mongodb.
 
 > [View code](https://github.com/L-Ribbestad/smoothie-club)
 
