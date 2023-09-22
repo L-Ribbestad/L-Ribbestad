@@ -13,7 +13,7 @@ I created a bank and my own API using EJS and Mongodb. The application can only 
 
 I made a smoothie club website using node EJS.
 
-> [View code]()
+> [View code](https://github.com/L-Ribbestad/smoothie-club)
 
 ### Star Wars Trivia 
 Project to compare fetched Star Wars characters.
