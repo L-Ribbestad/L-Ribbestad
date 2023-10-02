@@ -1,5 +1,5 @@
 # Welcome!👋 Lukas is my name and I'm a Frontend Developer.
-Feel free to check out all my projects. I'm currently working on an E-Wallet using React.
+Feel free to check out all my projects. I'm currently learning typescript.
 
 ## Projects
 
