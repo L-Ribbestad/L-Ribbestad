@@ -1,4 +1,4 @@
-# Welcome!👋 Lukas is my name and I'm a Frontend Developer.
+# Welcome! Lukas is my name and I'm a Frontend Developer.
 Feel free to check out all my projects. I'm currently learning typescript.
 
 ## Projects
